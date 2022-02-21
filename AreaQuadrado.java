@@ -1,3 +1,3 @@
-public enum AreaQuadrado {
+public class AreaQuadrado {
     
 }
